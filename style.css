@@ -1,0 +1,10 @@
+body {
+    position: relative;
+}
+table,td {
+    border: 1px solid  #000;
+}
+table{
+    position: absolute;
+    margin: 40 auto;
+}
