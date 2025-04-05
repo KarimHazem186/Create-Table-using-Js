@@ -1,25 +1,28 @@
-# Print Simple Message App
+# 🧮 Create-Table-using-JavaScript  
 
-## Todo
+This project demonstrates how to dynamically create HTML tables using **JavaScript**. It allows users to input the number of rows and columns, and the script will generate a table accordingly in real-time.
 
-# HTML
 
-- Create Input Tag
+## 🚀 Features
 
-- Create Button Tag
+- Create a table with custom number of **rows and columns**
+- Input fields to control the table size
+- Dynamically generated table using JavaScript DOM
+- Simple, clean, and easy-to-understand logic
+- Perfect for beginners learning **DOM manipulation**
 
-- Create P Tag For Printing Msg
 
-# Css
+## 📌 Functionality (English)
 
-- make some style for every Element
+- Enter the number of rows and columns you want.
+- Click a button to generate a table dynamically using JavaScript.
+- The table is rendered directly in the browser.
 
-# Js
 
-- get All Elements in html
+## 💻 Technologies Used
 
-- add click event to button
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-- get value from input
 
-- put value into P
